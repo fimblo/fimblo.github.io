@@ -1,4 +1,5 @@
 baseURL = 'https://fimblo.github.io/'
 languageCode = 'en-us'
 title = 'fimblo.github.io'
-theme = 'cactus'
+#theme = 'cactus'
+theme = 'ananke'
